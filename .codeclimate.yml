@@ -19,3 +19,4 @@ exclude_paths:
 - "sql/*"
 - "scripts/*"
 - "docs/*"
+# 
